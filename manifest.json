@@ -1,0 +1,75 @@
+{
+  "background_color": "#ffffff",
+  "description": "My first PWA for educational purposes",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "portfolio-artfalcao.netlify",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "portfolio-artfalcao",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "./assets/img/icon/1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/87.png",
+      "sizes": "87x87",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/80.png",
+      "sizes": "80x80",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/58.png",
+      "sizes": "58x58",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/57.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/40.png",
+      "sizes": "40x40",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/icon/29.png",
+      "sizes": "29x29",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "en"
+}
