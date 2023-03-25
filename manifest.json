@@ -1,18 +1,10 @@
 {
-  "background_color": "#ffffff",
-  "description": "My first PWA for educational purposes",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "portfolio-artfalcao.netlify",
-  "orientation": "portrait",
-  "scope": "/",
   "short_name": "portfolio-artfalcao",
-  "start_url": "/",
-  "theme_color": "#ffffff",
-  "categories": [
-    "education"
-  ],
-  "screenshots": [],
+  "background_color": "#ffffff",
+  "theme_color": "#4D5360",
+  "description": "My first PWA for educational purposes",
+  "display": "standalone",
   "icons": [
     {
       "src": "./assets/img/icon/1024.png",
@@ -70,6 +62,5 @@
       "type": "image/png"
     }
   ],
-  "shortcuts": [],
-  "lang": "en"
+  "start_url": "/"
 }
