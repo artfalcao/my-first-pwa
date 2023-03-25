@@ -1,6 +1,8 @@
 {
   "name": "portfolio-artfalcao.netlify",
   "short_name": "portfolio-artfalcao",
+  "scope": "/",
+  "start_url": "./index.html",
   "background_color": "#ffffff",
   "theme_color": "#4D5360",
   "description": "My first PWA for educational purposes",
@@ -61,6 +63,5 @@
       "sizes": "29x29",
       "type": "image/png"
     }
-  ],
-  "start_url": "/"
+  ]
 }
